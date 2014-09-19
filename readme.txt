@@ -1,6 +1,6 @@
-=== News Widget ===
+=== News ===
 Contributors: smplug-in
-Tags: news, mashable, News Widget, social networking, twitter, facebook, plugin, rss feed, newsticker
+Tags: news, mashable, News Widget, social networking, twitter, newsticker
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 1.0
@@ -17,6 +17,7 @@ Features of News Widget:
 * Ability to set News title maximum character.
 
 News Widget is awesome tool to show all latest news from Mashable. This plugin very easy to use, it's easy and user-friendly. You can integrate news anywhere you need, just add News Widget to your sidebar, figure it and then use it .
+
 == Installation ==
 
 That's simple
@@ -24,3 +25,8 @@ That's simple
 2. Upload the News Widget plugin from your admin panel
 3. Activate the plugin
 4. Add News Widget widget to your sidebar
+
+== Changelog ==
+
+-- 1.0 --
+First version
