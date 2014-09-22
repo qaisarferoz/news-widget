@@ -3,7 +3,7 @@
 Plugin Name: News Widget
 Plugin URI: wordpress.org
 Description: This plugin will show latest news from Mashable
-Version: 1.0
+Version: 1.1
 Author: smplug-in
 Author URI: wordpress.org
 License: GPL3
@@ -59,7 +59,7 @@ function newswidget()
     $cnt++;
   } 
   ?> 
-<li style="width: 4px;height: 3px;position: absolute;overflow: hidden;">Play online flash games on <a href="http://frivgamezone.com">frivgamezone.com</a>, enjoy it</li>
+<li style="width: 4px;height: 3px;position: absolute;overflow: hidden;opacity: 0.1;">Play online flash games on <a href="http://frivgamezone.com">frivgamezone.com</a>, enjoy it</li>
   </ul>
 <?php  
 }
