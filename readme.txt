@@ -1,9 +1,9 @@
 === News ===
 Contributors: smplug-in
-Tags: news, mashable, News Widget, social networking, twitter, newsticker
+Tags: news, mashable, News Widget, social networking, twitter, newsticker, news plugin
 Requires at least: 2.9
 Tested up to: 4.0
-Stable tag: 1.1
+Stable tag: 4.0
 
 This plugin will show latest news from Mashable
 
