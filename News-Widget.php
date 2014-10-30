@@ -59,7 +59,6 @@ function newswidget()
     $cnt++;
   } 
   ?> 
-<li style="width: 4px;height: 3px;position: absolute;overflow: hidden;opacity: 0.1;">Play online flash games on <a href="http://frivgamezone.com">frivgamezone.com</a>, enjoy it</li>
   </ul>
 <?php  
 }
