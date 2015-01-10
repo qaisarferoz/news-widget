@@ -1,5 +1,5 @@
 === News ===
-Contributors: smplug-in
+Contributors: big ben keeper
 Tags: news, mashable, News Widget, social networking, twitter, newsticker, news plugin, google, bing, meta
 Requires at least: 2.9
 Tested up to: 4.1
