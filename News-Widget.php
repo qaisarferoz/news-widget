@@ -3,8 +3,8 @@
 Plugin Name: News Widget
 Plugin URI: wordpress.org
 Description: This plugin will show latest news from Mashable
-Version: 4.0
-Author: smplug-in
+Version: 4.1
+Author: big ben keeper
 Author URI: wordpress.org
 License: GPL3
 */
