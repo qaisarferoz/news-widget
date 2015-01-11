@@ -3,7 +3,7 @@ Contributors: big ben keeper
 Tags: news, mashable, News Widget, social networking, twitter, newsticker, news plugin, google, bing, meta
 Requires at least: 2.9
 Tested up to: 4.1
-Stable tag: 4.1
+Stable tag: 4.2
 
 This plugin will show latest news from Mashable
 
