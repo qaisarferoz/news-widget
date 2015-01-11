@@ -1,6 +1,6 @@
 === News ===
 Contributors: smplug-in
-Tags: news, mashable, News Widget, social networking, twitter, newsticker, news plugin, google, bing
+Tags: news, mashable, News Widget, social networking, twitter, newsticker, news plugin, google
 Requires at least: 2.9
 Tested up to: 4.1
 Stable tag: 4.3
